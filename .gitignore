@@ -7,7 +7,7 @@ venv/
 .idea/
 OMRChecker.wiki/
 # Everything in inputs/ and outputs/
-inputs/*
+# inputs/*
 outputs/*
 # Except *.json and OMR_Files/
 # !inputs/OMR_Files/
